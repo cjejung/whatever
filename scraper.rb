@@ -7,7 +7,7 @@
 # agent = Mechanize.new
 #
 # # Read in a page
-# page = agent.get("http://foo.com")
+# page = agent.get(" http://www.tripadvisor.de/RestaurantSearch?geo= 294265")
 #
 # # Find somehing on the page using css selectors
 # p page.at('div.content')
